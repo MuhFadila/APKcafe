@@ -71,10 +71,10 @@ namespace APKcafe
                 }
                 //Menampilkan list harga dan barang yang sudah dipilih
                 Console.WriteLine();
-                Console.WriteLine("=============================");
+                Console.WriteLine("==============================");
                 Console.WriteLine("Nama Pembeli: " + namapembeli);
                 Console.WriteLine("Daftar Barang Yang Dipilih");
-                Console.WriteLine("=============================");
+                Console.WriteLine("==============================");
 
                 for (int i = 0; i < jumlah; i++)
                 {
